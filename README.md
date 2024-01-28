@@ -25,8 +25,9 @@ Follow these steps to set up and run the project locally:
 
 To start the development server and view the app in your browser, run:
 
-npm start
-
+    ```
+    npm start
+    ```
 
 ## I COULD NOT MAKE A VIDEO EXPLAINING THE DEMO PROJECT AS I AM VERY SICK, I KNOW THIS IS NO EXCUSE.
 
