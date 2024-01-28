@@ -1,0 +1,10 @@
+/* App.css */
+
+.chart-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  

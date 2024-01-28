@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --tips-and-details-overline: Roboto;
+  --headline-h5: Poppins;
+  --font-archivo: Archivo;
+
+  /* font sizes */
+  --tips-and-details-overline-size: 10px;
+  --headline-h5-size: 22px;
+  --font-size-lg: 18px;
+  --body-body-2-size: 14px;
+  --body-title-size: 20px;
+  --body-body-1-size: 16px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --headline-h1-size: 72px;
+  --font-size-xl-5: 20.5px;
+
+  /* Colors */
+  --color-ghostwhite: #eef0fa;
+  --snow: #fff;
+  --color-steelblue: #5a5a89;
+  --purple-heart: #8676ff;
+  --fervent-pink: #ff708b;
+  --color-orange: #ffa63f;
+  --lavender: #dbdff1;
+  --color-darkslateblue-100: #5756b3;
+  --night-blue: #383874;
+  --blue: #023aff;
+  --color-gray: #171725;
+  --electric-green: #00b929;
+  --color-black: #000;
+  --color-lightslategray: #8484a0;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-mid: 17px;
+  --gap-11xs: 2px;
+  --gap-lg: 18px;
+  --gap-xs: 12px;
+  --gap-7xl: 26px;
+  --gap-9xs: 4px;
+  --gap-4xs: 9px;
+  --gap-mini: 15px;
+
+  /* Paddings */
+  --padding-2xs: 11px;
+  --padding-50xl: 69px;
+  --padding-48xl: 67px;
+  --padding-14xl: 33px;
+  --padding-15xl: 34px;
+  --padding-5xl: 24px;
+  --padding-xl: 20px;
+  --padding-lg: 18px;
+  --padding-13xl: 32px;
+  --padding-6xs: 7px;
+  --padding-xs: 12px;
+  --padding-7xs: 6px;
+  --padding-3xs: 10px;
+  --padding-19xl: 38px;
+  --padding-41xl: 60px;
+  --padding-29xl: 48px;
+  --padding-11xl: 30px;
+  --padding-5xs: 8px;
+  --padding-mid: 17px;
+  --padding-9xs: 4px;
+  --padding-4xs: 9px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-81xl: 100px;
+  --br-base: 16px;
+  --br-5xs: 8px;
+
+  /* Effects */
+  --widget-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07),
+    0px 41.8px 33.42px rgba(108, 73, 172, 0.05),
+    0px 22.3px 17.87px rgba(108, 73, 172, 0.04),
+    0px 12.5px 10.02px rgba(108, 73, 172, 0.04),
+    0px 6.7px 5.32px rgba(108, 73, 172, 0.03),
+    0px 2.8px 2.21px rgba(108, 73, 172, 0.02);
+  --big-shadow: 0px 140.8px 112.66px rgba(41, 52, 149, 0.21),
+    0px 58.8px 47.07px rgba(41, 52, 149, 0.15),
+    0px 31.5px 25.17px rgba(41, 52, 149, 0.13),
+    0px 17.6px 14.11px rgba(41, 52, 149, 0.1),
+    0px 9.4px 7.49px rgba(41, 52, 149, 0.08),
+    0px 3.9px 3.12px rgba(41, 52, 149, 0.06);
+}

@@ -1,0 +1,13 @@
+.hex-map-icon {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 3;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 90px;
+  transform: scale(1.238);
+}
