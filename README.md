@@ -17,9 +17,9 @@ Follow these steps to set up and run the project locally:
 
 3. **Install dependencies:**
 
-    ```
+   
     npm install
-    ```
+    
 
 ## Running the App
 
