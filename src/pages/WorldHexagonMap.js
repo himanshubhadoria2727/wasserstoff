@@ -5,8 +5,7 @@ import MapPinPinWithName from "../components/MapPinPinWithName";
 import WidgetLSizeTimelineCha from "../components/WidgetLSizeTimelineCha";
 import "./WorldHexagonMap.css";
 import React from 'react';
-import { Bar } from 'react-chartjs-2';
-import { Lund } from "../charts";
+
 
 const data = {
   labels: ['January', 'February', 'March', 'April', 'May'],
@@ -118,11 +117,8 @@ const WorldHexagonMap = () => {
                         />
                         <div className="title-parent">
                           <div className="title">Berlin</div>
-                          <input
-                            className="amount3"
-                            placeholder="76,541,106"
-                            type="text"
-                          />
+                          76,541,106
+                          
                         </div>
                         <img className="arrow-icon" alt="" src="/arrow.svg" />
                       </div>
@@ -146,11 +142,8 @@ const WorldHexagonMap = () => {
                               />
                               <div className="title-group">
                                 <div className="title1">Giza</div>
-                                <input
-                                  className="amount4"
-                                  placeholder="10,547,980"
-                                  type="text"
-                                />
+                                10,547,980
+                                
                               </div>
                             </div>
                             <img
@@ -179,11 +172,7 @@ const WorldHexagonMap = () => {
                       />
                       <div className="title-container">
                         <div className="title2">Manaus</div>
-                        <input
-                          className="amount5"
-                          placeholder="12,320,300"
-                          type="text"
-                        />
+                        12,320,300
                       </div>
                       <img className="arrow-icon2" alt="" src="/arrow.svg" />
                     </div>
@@ -199,11 +188,7 @@ const WorldHexagonMap = () => {
                   />
                   <div className="title-parent1">
                     <div className="title3">Queensland</div>
-                    <input
-                      className="amount6"
-                      placeholder="6,097,321"
-                      type="text"
-                    />
+                    6,097,321
                   </div>
                   <img className="arrow-icon3" alt="" src="/arrow.svg" />
                 </div>

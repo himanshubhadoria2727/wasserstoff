@@ -11,7 +11,8 @@ const WidgetLSizeTimelineCha = memo(() => {
         <div className="value1">
           <div className="value2">
             <div className="title6">Sales Figures</div>
-            <input className="value3" placeholder="$10,430" type="text" />
+            <h1>$10,430</h1>
+            {/* <input className="value3" placeholder="" type="text" /> */}
           </div>
         </div>
       </div>
